@@ -1,0 +1,21 @@
+#bg{
+    background-color: black;
+    width: auto;
+}
+div{
+    color: blanchedalmond;
+    border: black 1px;
+    width: 18%;
+    float: left;
+    padding: 10px;
+}
+div img{
+    width: 250px;
+    height: 250px;
+}
+div h4{
+    border: 1px solid rgb(255, 255, 255);
+    height: 2em;
+    text-align: center;
+    padding-top: 1em;
+}

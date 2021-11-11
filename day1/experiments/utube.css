@@ -1,0 +1,57 @@
+.header{
+    background-color:gray;
+    width:100%;
+    height: 50px;
+}
+body{
+    margin: 0%;
+    font-family:'Times New Roman', Times, serif;
+}
+.logo{
+    font-weight:bold;
+    font-size: larger;
+    margin-left: 5%;
+    padding-top: 20px;
+    font: size 500px;
+    color: rgb(182, 41, 41);
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logon-controls{
+    float: left;
+    padding-top: 20px;
+    margin-left: 5%;
+}
+.placeholder{
+    padding-top: 20%;
+    size:200px;
+    grid-row: auto;
+}
+.login-label{
+    color: red;
+    border-radius: 5%;
+    background-color: rgb(174, 221, 155);
+
+}
+.container1{
+    padding-left: 20px;
+    font-size: large;
+    padding-top: 20px;
+}
+.container1{
+    padding-top: 20%;
+    margin: left 10px;
+    float:right;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(204, 204, 19);
+}
+.container2{
+    padding-top: 20%;
+    float: right;
+    width: 100%;
+    height: 100px;
+    background-color: tomato;
+}

@@ -1,0 +1,33 @@
+.row{
+    border: solid black 1px;
+    background-color: cadetblue;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 600px;
+}
+.col{
+    border: solid black 1px;
+    height: 200px;
+    width: 100px;
+}
+.col-1{
+    background-color: blueviolet;
+    position: absolute;
+    left: 2px;
+}
+.col-2{
+    background-color: palevioletred;
+    position: absolute;
+    left: 106px;
+}
+.col-3{
+background-color: red;
+position: absolute;
+left: 210px;
+}
+.col-4{
+    background-color: seagreen;
+    position: absolute;
+    left: 315px;
+}

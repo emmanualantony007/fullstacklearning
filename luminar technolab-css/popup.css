@@ -1,0 +1,19 @@
+body{
+    /*background-color: darkkhaki;*/
+    background-image:url(./Adujivitam\ \(1\).jpg);
+    height: 1000px;
+    background-size: cover;
+    color: wheat;
+}
+.box{
+    border: solid black 1px;
+    background-color: cadetblue;
+    height: 200px;
+    width: 150px;
+    position:sticky;
+    top: 50px;
+    text-align: center;
+   /* left: 200px;
+    top: 300px;*/
+
+}

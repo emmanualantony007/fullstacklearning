@@ -1,0 +1,16 @@
+h1{
+    color: darkred;
+}/* above one is tag selector*/
+
+#head1{
+    color: darksalmon;
+}/*thid one is id selector, here we have to use hash tag before id name*/
+#head3{
+    color: darkseagreen;
+}
+body{
+   background-color: darkslategray;
+}/* if we are using class instead of id use . instead of #*/
+.head4{
+    color: deepskyblue;
+}

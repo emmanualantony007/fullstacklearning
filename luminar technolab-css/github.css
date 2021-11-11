@@ -1,0 +1,43 @@
+.img{
+    text-align: center;
+    margin-top: 2em;
+}
+.box{
+border: solid rgba(204, 200, 200, 0.979) 1px;
+text-align: center;
+height: 15em;
+background-color: rgba(232, 240, 240, 0.781);
+margin-left: 32em;
+margin-right: 32em;
+border-radius: 12px;
+}
+#btn{
+    height: 2em;
+    width: 20em;
+    color:white;
+    background-color: rgb(65, 173, 65);
+    border-radius: 5px;
+}
+.box1{
+    border:solid rgba(204, 200, 200, 0.979) 1px;
+    width: 20.2em;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 32em;
+    border-radius: 10px;
+    
+}
+footer{
+    margin-top: 3em;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 10em;
+    word-spacing: 30px;
+    margin-left: 10em;
+    
+
+}
+#new{
+    word-spacing: 1px;
+    color: gray;
+}

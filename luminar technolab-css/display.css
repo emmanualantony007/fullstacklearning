@@ -1,0 +1,32 @@
+.row{
+    border: solid black 1px;
+    background-color: chartreuse;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    /*justify-content: space-evenly;
+    /*space-between;
+    space-evenly;
+    flex-end and flex-start
+    to justify--justify-content:flex-start*/
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.col{
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+}
+.col-1{   
+    background-color: blue;
+}
+.col-2{
+    background-color: burlywood;
+}
+.col-3{
+    background-color: cadetblue;
+}
+.col-4{
+    background-color: crimson;
+}

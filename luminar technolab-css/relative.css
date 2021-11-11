@@ -1,0 +1,34 @@
+.row{
+    height: 300px;
+    width: 500px;
+    border: solid black 1px;
+    background-color:cornflowerblue;
+    position: absolute;
+}
+.col{
+    width: 100px;
+    height: 200px;
+    border: solid black 1px;
+    float: left; 
+    
+}
+.col1{
+    position: relative;
+    background-color: brown;
+    left: 5px;
+}
+.col2{
+    position: relative;
+    background-color: cadetblue;
+    left: 10px;;
+}
+.col3{
+    position: relative;
+    background-color: chocolate;
+    left: 15px;
+}
+.col4{
+    position: relative;
+    background-color: darkcyan;
+    left: 20px;
+}
